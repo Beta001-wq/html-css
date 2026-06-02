@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de esconde esconde</title>
+    <style>
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div> p{
+    display: none;
+}
+div:active > p
+{
+    display: block;
+    background-color: brown;
+    color: white;
+    width: 300px;
+}
+div:hover{
+    background-color: rgba(55, 140, 219, 0.596);
+       width: 300px;
+}
+
+
+    </style>
+</head>
+<body>
+    <h1>Exemplo de Hover</h1>
+<div>
+    Passe o Mouse Aqui
+    <p>Nelson Calueto</p>
+</div>
+</body>
+</html>

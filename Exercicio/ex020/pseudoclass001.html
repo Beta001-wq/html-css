@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treinando o uso de Pseudoclass</title>
+    <style>
+a{
+    color:rgb(183, 66, 66);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+}
+a:hover{
+    color: rgb(92, 38, 38);
+    text-decoration: underline;
+}
+a:visited{
+    color: rgb(255, 214, 182);
+}
+a::after{
+    content: " #";
+    font-weight: bold;
+}
+a::before{
+    content: " *";
+    font-weight: bold;
+}
+
+    </style>
+</head>
+<body>
+    <h1>Linguagens de progração</h1>
+    <ul>
+<li><a href="exemplo.html" target="_blank">Python</a></li>
+<li><a href="pseudoclass.html" target="_blank">Kotlin</a></li>
+<li><a href="@" target="_blank">C#</a></li>
+
+    </ul>
+</body>
+</html>
