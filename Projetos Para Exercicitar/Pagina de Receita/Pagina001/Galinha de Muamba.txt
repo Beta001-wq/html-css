@@ -1,0 +1,120 @@
+Projeto: Página de Receita (HTML5 + CSS3)
+Objetivo
+
+Criar uma página simples e bem estruturada usando HTML semântico.
+
+Conteúdo da Página
+Cabeçalho
+
+Título da receita:
+
+Muamba de Galinha
+
+Subtítulo:
+
+Um dos pratos mais tradicionais da culinária angolana.
+
+Imagem
+
+Use uma foto da receita.
+
+Texto alternativo:
+
+Prato de Muamba de Galinha servido com funge.
+
+Sobre a Receita
+Descrição
+
+A Muamba de Galinha é um prato típico de Angola preparado com óleo de palma, quiabos e diversos temperos tradicionais. É frequentemente acompanhada de funge.
+
+Ingredientes
+Para 4 pessoas
+1 galinha cortada em pedaços
+200 g de quiabos
+2 cebolas
+3 dentes de alho
+2 tomates
+Óleo de palma
+Sal a gosto
+Água
+Modo de Preparo
+Passo 1
+
+Lave bem a galinha e tempere com sal.
+
+Passo 2
+
+Refogue a cebola, o alho e os tomates.
+
+Passo 3
+
+Adicione a galinha e deixe cozinhar.
+
+Passo 4
+
+Acrescente os quiabos e o óleo de palma.
+
+Passo 5
+
+Cozinhe até os ingredientes ficarem macios.
+
+Passo 6
+
+Sirva com funge.
+
+Informações Nutricionais
+Informação	Valor
+Calorias	450 kcal
+Proteína	35 g
+Gordura	22 g
+Carboidratos	18 g
+Dicas
+Use quiabos frescos.
+Sirva quente.
+Acompanhe com funge de bombó ou milho.
+Rodapé
+
+Receita tradicional angolana • Desenvolvido por Nelson Calueto
+
+O que você deve praticar neste projeto
+HTML5 Semântico
+
+Use:
+
+<header>
+<nav>
+<main>
+<section>
+<article>
+<footer>
+Elementos HTML
+
+Use:
+
+h1 até h3
+p
+img
+ul
+ol
+table
+CSS3
+
+Pratique:
+
+Fontes
+Cores
+Margens
+Padding
+Border-radius
+Box-shadow
+Flexbox (opcional)
+Desafio Extra
+
+Depois de terminar a versão básica, adicione:
+
+Menu de navegação
+Botão "Imprimir Receita"
+Layout responsivo para telemóveis
+Efeito hover nos botões
+
+Não procure um modelo pronto. Primeiro desenhe a estrutura da página em papel e depois transforme-a em HTML. Isso acelera muito o aprendizado.
